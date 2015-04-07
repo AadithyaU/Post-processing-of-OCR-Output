@@ -3,4 +3,4 @@ Post processing of OCR output emphasizes on improving the accuracy of OCR by det
 Software used: Google's 1-T n-gram model (Corpus), Microsoft n-gram (Corpus) and Redis Server.
 Languages: Python.
 
-I will link the code asap. Any query, u can contact me through <a href="mailto:aadi1194@gmail.com?Subject=Daily%20Price%20Query" target="_top">my mail id</a>.
+I will link the code asap. Any query, u can contact me through <a href="mailto:aadi1194@gmail.com?Subject=OCR%20Ppst%20processing%20Query" target="_top">my mail id</a>.
